@@ -1,0 +1,14 @@
+name: ML_gym2_
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - gymnasium=0.28.1
+  - ipykernel=6.29.5
+  - ipython=8.27.0
+  - matplotlib=3.8.3
+  - matplotlib-base=3.8.3
+  - matplotlib-inline=0.1.7
+  - python=3.11.10
+  - pip:
+      - pygame==2.1.3
